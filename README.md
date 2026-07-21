@@ -18,3 +18,6 @@ Analyze sales data using geospatial visualization.
    pip install -r requirements.txt
 2. Run:
    python analysis.py
+   
+## Objective
+Analyze web traffic and sales data using Python and create interactive geospatial visualizations with Plotly.
